@@ -6,6 +6,6 @@
   
 |Проект  |Описание |Стек технологий|
 |------- |-----------|-----------|
-|[mobile_games](https://github.com/azizabobojonova/mobile_games)| Анализ данныз о продажах в интернет магазине, поведений покупаталей, когортный анализ пользователей, RFM сегментация|Python (pandas, numpy, datetime, matplotlib, seaborn)|
-|[e-commerce](https://github.com/azizabobojonova/e-commerce)| Анализ данныз о продажах в интернет магазине, поведений покупаталей, когортный анализ пользователей, RFM сегментация|Python (pandas, numpy, datetime, matplotlib, seaborn)|
-|     3| SQL       |
+|[mobile_games](https://github.com/azizabobojonova/mobile_games)| Расчет продуктовых метрик, когортный анализ пользователей, статистический анализ данных, A/B тестирование, Bootstrap|Python (pandas, numpy, seaborn, matplotlib, datetime, pingouin, scipy, statsmodels)|
+|[e-commerce](https://github.com/azizabobojonova/e-commerce)| Анализ данныx о продажах в интернет магазине, поведений покупаталей, когортный анализ пользователей, RFM сегментация|Python (pandas, numpy, datetime, matplotlib, seaborn)|
+|[sales_analyses](https://github.com/azizabobojonova/sales_analyses)| Анализ данныx о продажах в интернет магазине электроники, |Python (pandas, os, datetime, matplotlib, seaborn, itertools, calendar)|
