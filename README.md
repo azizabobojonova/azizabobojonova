@@ -5,6 +5,6 @@
   
 | Проект | Описание | Стек технологий|
 |-----:|-----------:|-----------|
-| https://github.com/azizabobojonova/e-commerce| Анализ данныз о продажах в интернет магазине, поведений покупаталей, когортный анализ пользователей, RFM сегментация|pandas, numpy, datetime, matplotlib, seaborn|
+|[e-commerce](https://github.com/azizabobojonova/e-commerce)| Анализ данныз о продажах в интернет магазине, поведений покупаталей, когортный анализ пользователей, RFM сегментация|Python (pandas, numpy, datetime, matplotlib, seaborn)|
 |     2| Python    |
 |     3| SQL       |
